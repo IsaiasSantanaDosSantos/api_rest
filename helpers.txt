@@ -1,0 +1,6 @@
+######### SEQUELIZE COMMANDS #########
+
+(terminal)
+
+Create table:
+→ npx sequelize migration:create --name=alunos

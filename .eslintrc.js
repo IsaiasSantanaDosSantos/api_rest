@@ -15,5 +15,6 @@ module.exports = {
     singleQuote: 'on',
     'class-methods-use-this': 'off',
     // 'eslint operator-linebreak': [error, none]
+    'import/first': 'off',
   },
 };
