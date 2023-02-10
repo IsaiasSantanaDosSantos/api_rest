@@ -16,5 +16,6 @@ module.exports = {
     'class-methods-use-this': 'off',
     // 'eslint operator-linebreak': [error, none]
     'import/first': 'off',
+    'no-param-reassign': 'off',
   },
 };

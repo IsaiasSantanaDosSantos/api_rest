@@ -4,3 +4,9 @@
 
 Create table:
 → npx sequelize migration:create --name=alunos
+
+Fazer migração:
+→ npx sequelize db:migrate
+
+Apagar tabela:
+→ npx sequelize db:migrate:undo
