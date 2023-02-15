@@ -17,5 +17,6 @@ module.exports = {
     // 'eslint operator-linebreak': [error, none]
     'import/first': 'off',
     'no-param-reassign': 'off',
+    'camelcase': 'off',
   },
 };
